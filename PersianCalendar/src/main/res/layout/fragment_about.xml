@@ -36,6 +36,15 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
+                android:visibility="gone"
+                android:gravity="center"
+                android:paddingBottom="@dimen/padding_item"
+                android:textSize="@dimen/text_size_description" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text=" \n github: \n https://github.com/fardindeveloper/PersianCalendarAd"
                 android:gravity="center"
                 android:paddingBottom="@dimen/padding_item"
                 android:textSize="@dimen/text_size_description" />
@@ -254,10 +263,6 @@
             </LinearLayout>
 
         </LinearLayout>
-
-
-
-
 
         <LinearLayout
             style="@style/AboutCard"
