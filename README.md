@@ -5,8 +5,7 @@
 <div dir=rtl>
 
 تقویم فارسی اندروید
-سورس اصلی برنامه لینک مقابل می باشد که ما آن را ارتقا داده ایم https://github.com/persian-calendar/DroidPersianCalendar و این برنامه طبق لایسنس مقابل منتشر شده است https://cafebazaar.ir/app/com.byagowi.persiancalendar/ gnu.org/licenses تقویم ساده، رایگان و آزاد اندروید به همراه ویجت و حمایت از DashClock
-برای دریافت و نصب بر برگهٔ releases در بالای صفحه کلیک کنید.
+این برنامه به صورت شخصی، مستقل، رایگان و متن‌باز نوشته شده‌است و کد آن را می‌توانید از https://github.com/persian-calendar/DroidPersianCalendar دریافت کنید. توضیح در رابطه با مجوز سورس برنامه: مجوز جی‌پی‌ال۳ تقریباً به این معنی است که سورس برنامهٔ آپدیت شده را حداقل به همراه انتشار به صورت عمومی منتشر کرده و لینک آن را هم به شکل واضحی قرار دهید، تقریباً مشابه به شیوه‌ای که سورس را در ابتدا دریافت کرده‌اید، https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3) اینجا توضیحات ساده‌ای در این رابطه آمده است. نسخه اصلی برنامه: https://cafebazaar.ir/app/com.byagowi.persiancalendar
 </div>
 
 ## Download
