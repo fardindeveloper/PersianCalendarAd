@@ -51,6 +51,8 @@
 
         </LinearLayout>
 
+
+
         <LinearLayout
             style="@style/AboutCard"
             android:background="?attr/colorCard">
